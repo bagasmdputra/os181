@@ -9,3 +9,5 @@ ZCZC W02 berhasil dikerjakan
 ZCZC W03 telah berhasil dikerjakan
 
 ZCZC W04 sudah dikerjakan
+
+ZCZC W05 done!
