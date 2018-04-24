@@ -11,3 +11,11 @@ ZCZC W03 telah berhasil dikerjakan
 ZCZC W04 sudah dikerjakan
 
 ZCZC W05 done!
+
+ZCZC W06 done!
+
+ZCZC W07 done!
+
+ZCZC W08 done!
+
+ZCZC W09 done!
